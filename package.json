@@ -1,0 +1,34 @@
+{
+  "name": "demoproject",
+  "version": "1.0.0",
+  "description": "Logisticc App",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.1",
+    "hbs": "^4.2.0",
+    "mongodb": "^4.6.0",
+    "mongoose": "^6.3.5",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.16",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "dev":"nodemon app.js"      
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackbeats/demo_project.git"
+  },
+  "keywords": [],
+  "author": [
+    "Kumar Klayan <kum9748ar@gmail.com> ",
+    "Manish Kumar Shaw <manishkrshaw95@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hackbeats/demo_project/issues"
+  },
+  "homepage": "https://github.com/hackbeats/demo_project#readme"
+}
